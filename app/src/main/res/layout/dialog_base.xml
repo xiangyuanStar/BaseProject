@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+    <RelativeLayout
+            android:id="@+id/rlDialogTitleView"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50">
+
+        <com.coorchice.library.SuperTextView
+                android:id="@+id/tvDialogTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_30"
+                android:text="标题"
+                android:textStyle="bold"
+                app:stv_textShaderEnable="true"
+                app:stv_textShaderStartColor="#FFFFEB"
+                app:stv_textShaderEndColor="#C18E4A"
+                app:stv_textShaderMode="topToBottom"/>
+
+        <ImageView
+                android:id="@+id/ivDialogClose"
+                android:layout_width="@dimen/dp_25"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:id="@+id/flDialogBodyView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+</LinearLayout>

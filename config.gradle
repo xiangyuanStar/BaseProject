@@ -1,0 +1,29 @@
+ext {
+    appconfig = [
+            versionCode                  : 1,
+            versionName                  : "1.0",
+            compileSdkVersion            : 28,
+            minSdkVersion                : 16,
+            targetSdkVersion             : 28,
+            leakcanary                   : "1.6.3",
+            releaseMinifyEnabled         : true,
+            releaseShrinkResources       : true,
+            releaseZipAlignEnabled       : true,
+            supportAppcompatV7           : "28.0.0",
+            rxAndroid                    : "2.1.0",
+            rxActivityResult             : "0.5.0-2.x",
+            rxbinding3                   : "3.0.0-alpha2",
+            retrofit2                    : "2.5.0",
+            okgo                         : "3.0.4",
+            okrx2                        : "2.0.2",
+            okserver                     : "2.0.5",
+            glide                        : "4.8.0",
+            logger                       : "2.2.0",
+            autosize                     : "1.1.2",
+            bubbleseekbar                : "3.19",
+            easypermissions              : "2.0.1",
+            baseRecyclerViewAdapterHelper: "2.9.31",
+            eventbus                     : "3.1.1",
+            superTextView                : "v3.1.1"
+    ]
+}

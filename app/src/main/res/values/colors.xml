@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="black">#000000</color> <!--黑色 -->
+    <color name="splitline">#DDDDDD</color> <!--分割线(灰色) -->
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="login_title_string">#F2E69A</color>
+    <color name="popup_line">#7048342A</color>
+    <color name="dialog_title_string">#B6956C</color>
+</resources>
