@@ -16,8 +16,6 @@ import org.greenrobot.eventbus.EventBus
  * Created by xiaoyuan on 2019/1/24.
  */
 abstract class BaseDialog : MyDialogFragment() {
-    //    private var dialogWitdh: Int = 0
-//    private var dialogHeight: Int = 0
     private var getSizeTag: Boolean = true
     private var isRegisterEventBus = false
 
