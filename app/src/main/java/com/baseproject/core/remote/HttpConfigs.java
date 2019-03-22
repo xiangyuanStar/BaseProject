@@ -1,7 +1,7 @@
 package com.baseproject.core.remote;
 
 /**
- * Created by xiaoyuan on 2019/1/23.
+ * Created by yuanxiang on 2019/1/23.
  */
 public class HttpConfigs {
     public static final String REQUEST_KEY_PARAM = "Param";

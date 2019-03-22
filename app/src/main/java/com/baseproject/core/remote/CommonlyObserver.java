@@ -10,7 +10,7 @@ import io.reactivex.disposables.Disposable;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/14.
  */
 public abstract class CommonlyObserver<T> implements Observer<T> {

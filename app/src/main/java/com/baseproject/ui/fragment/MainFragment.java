@@ -4,7 +4,7 @@ import com.baseproject.R;
 import com.baseproject.base.BaseFragment;
 
 /**
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/20.
  */
 public class MainFragment extends BaseFragment {

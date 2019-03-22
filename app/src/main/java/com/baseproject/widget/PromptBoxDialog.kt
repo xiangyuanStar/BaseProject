@@ -8,7 +8,7 @@ import kotlinx.android.synthetic.main.dialog_showtext.*
 
 /**
  * 提示对话框
- * Created by xiaoyuan on 2019/1/29.
+ * Created by yuanxiang on 2019/1/29.
  */
 @SuppressLint("ValidFragment")
 class PromptBoxDialog @SuppressLint("ValidFragment") constructor(showTextString: String) : BaseDialog() {

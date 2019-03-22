@@ -5,7 +5,7 @@ import android.view.View
 import com.blankj.utilcode.util.BarUtils
 
 /**
- * Created by xiaoyuan on 2019/1/10.
+ * Created by yuanxiang on 2019/1/10.
  */
 class AppUtils {
     /**

@@ -24,7 +24,7 @@ import static com.baseproject.core.remote.HttpConfigs.REQUEST_KEY_PARAM;
 /**
  * 加密参考：http://www.canhuah.com/Retrofit%E7%BB%99%E5%8F%82%E6%95%B0%E7%BB%9F%E4%B8%80%E5%8A%A0%E5%AF%86.html
  *
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/13.
  */
 public class RetrofitManager {

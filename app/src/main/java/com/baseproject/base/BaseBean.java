@@ -1,7 +1,7 @@
 package com.baseproject.base;
 
 /**
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/12.
  */
 public class BaseBean {

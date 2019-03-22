@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Activity管理器
- * Created by xiaoyuan on 2019/1/6.
+ * Created by yuanxiang on 2019/1/6.
  */
 public class ActivityContainer {
     private static List<Activity> activityStack = new ArrayList<>();

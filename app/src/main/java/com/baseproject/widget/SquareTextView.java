@@ -10,7 +10,7 @@ import com.baseproject.R;
 
 /**
  * 依据高或者宽设置正方形的TextView。默认依据宽
- * Created by xiaoyuan on 2019/1/9.
+ * Created by yuanxiang on 2019/1/9.
  */
 @SuppressLint("AppCompatCustomView")
 public class SquareTextView extends TextView {

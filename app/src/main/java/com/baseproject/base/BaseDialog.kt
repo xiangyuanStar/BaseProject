@@ -13,7 +13,7 @@ import kotlinx.android.synthetic.main.dialog_base.*
 import org.greenrobot.eventbus.EventBus
 
 /**
- * Created by xiaoyuan on 2019/1/24.
+ * Created by yuanxiang on 2019/1/24.
  */
 abstract class BaseDialog : MyDialogFragment() {
     private var getSizeTag: Boolean = true

@@ -4,7 +4,7 @@ import com.orhanobut.logger.AndroidLogAdapter;
 import com.orhanobut.logger.Logger;
 
 /**
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/13.
  */
 public class LogUtils {

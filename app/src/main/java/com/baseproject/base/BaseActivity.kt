@@ -18,7 +18,7 @@ import com.blankj.utilcode.util.BarUtils
 import java.util.*
 
 /**
- * Created by xiaoyuan on 2019/1/6.
+ * Created by yuanxiang on 2019/1/6.
  */
 abstract class BaseActivity : FragmentActivity() {
     private var isExit = false

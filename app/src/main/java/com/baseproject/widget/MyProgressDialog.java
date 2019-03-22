@@ -7,7 +7,7 @@ import android.view.Window;
 /**
  * 统一加载对话框样式
  *
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/14.
  */
 public class MyProgressDialog extends ProgressDialog {

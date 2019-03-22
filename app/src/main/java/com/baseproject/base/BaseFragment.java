@@ -13,7 +13,7 @@ import com.baseproject.R;
 import org.greenrobot.eventbus.EventBus;
 
 /**
- * Created by xiaoyuan on 2019/1/6.
+ * Created by yuanxiang on 2019/1/6.
  */
 public abstract class BaseFragment extends Fragment {
     private boolean isRegisterEventBus = false;

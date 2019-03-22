@@ -9,7 +9,7 @@ import com.baseproject.R;
  * * 防抖动点击
  *
  * @author jiangshicheng
- * Created by xiaoyuan on 2019/1/28.
+ * Created by yuanxiang on 2019/1/28.
  */
 public class AntiShakeUtils {
     private final static long INTERNAL_TIME = 1000;

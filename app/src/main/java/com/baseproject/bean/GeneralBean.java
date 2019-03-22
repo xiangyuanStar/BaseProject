@@ -3,7 +3,7 @@ package com.baseproject.bean;
 /**
  * 通用 bean，用于获取 code、message
  *
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/14.
  */
 public class GeneralBean {

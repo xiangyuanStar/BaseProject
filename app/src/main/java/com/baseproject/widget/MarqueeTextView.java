@@ -14,7 +14,7 @@ import android.widget.TextView;
 import com.baseproject.R;
 
 /**
- * Created by xiaoyuan on 2019/1/6.
+ * Created by yuanxiang on 2019/1/6.
  */
 @SuppressLint("AppCompatCustomView")
 public class MarqueeTextView extends TextView {

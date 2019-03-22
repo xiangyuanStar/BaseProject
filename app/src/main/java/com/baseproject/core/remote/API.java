@@ -1,7 +1,7 @@
 package com.baseproject.core.remote;
 
 /**
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/10.
  */
 public class API {

@@ -3,7 +3,7 @@ package com.baseproject.utils;
 import java.util.Random;
 
 /**
- * Created by xiaoyuan on 2019/1/18.
+ * Created by yuanxiang on 2019/1/18.
  */
 public class OtherUtils {
 

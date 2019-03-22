@@ -13,7 +13,7 @@ import rx_activity_result2.RxActivityResult;
 import java.io.File;
 
 /**
- * Created by xiaoyuan on 2019/2/9.
+ * Created by yuanxiang on 2019/2/9.
  */
 public class SystemApplication extends Application {
     private volatile static SystemApplication instance;

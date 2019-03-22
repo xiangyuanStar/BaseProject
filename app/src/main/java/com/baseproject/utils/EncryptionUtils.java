@@ -17,7 +17,7 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Map;
 
 /**
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/8.
  */
 public class EncryptionUtils {

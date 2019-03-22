@@ -17,7 +17,7 @@ import android.view.View;
 
 /**
  * 使用 MyDialog，解决虚拟按键问题
- * Created by xiaoyuan on 2019/1/27.
+ * Created by yuanxiang on 2019/1/27.
  */
 public class MyDialogFragment extends Fragment implements DialogInterface.OnCancelListener, DialogInterface.OnDismissListener {
     public static final int STYLE_NORMAL = 0;

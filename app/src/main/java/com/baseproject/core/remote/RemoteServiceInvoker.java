@@ -24,7 +24,7 @@ import static com.baseproject.core.remote.HttpConfigs.*;
 /**
  * 封装OkGo
  *
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/4.
  */
 public class RemoteServiceInvoker {

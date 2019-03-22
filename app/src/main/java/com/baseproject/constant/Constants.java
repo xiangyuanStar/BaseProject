@@ -1,7 +1,7 @@
 package com.baseproject.constant;
 
 /**
- * Created by xiaoyuan on 2019/1/21.
+ * Created by yuanxiang on 2019/1/21.
  */
 public class Constants {
 

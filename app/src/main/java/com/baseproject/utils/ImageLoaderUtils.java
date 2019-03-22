@@ -6,7 +6,7 @@ import android.widget.ImageView;
 import com.bumptech.glide.Glide;
 
 /**
- * Created by xiaoyuan on 2019/1/23.
+ * Created by yuanxiang on 2019/1/23.
  */
 public class ImageLoaderUtils {
     public static void loadImageView(Context context, Bitmap bitmap, ImageView imageView) {

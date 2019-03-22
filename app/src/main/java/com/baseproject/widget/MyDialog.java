@@ -7,7 +7,7 @@ import com.jisuliuhecai.utils.AppUtils;
 
 /**
  * 重写 show() 方法，实现弹出 dialog 隐藏虚拟按键
- * Created by xiaoyuan on 2019/1/27.
+ * Created by yuanxiang on 2019/1/27.
  */
 public class MyDialog extends Dialog {
     public MyDialog(Context context) {

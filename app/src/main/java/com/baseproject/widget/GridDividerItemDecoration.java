@@ -15,7 +15,7 @@ import android.view.View;
 
 /**
  * 自定义RecyclerView的分割线，不绘制最边上的线
- * Created by xiaoyuan on 2019/1/6.
+ * Created by yuanxiang on 2019/1/6.
  */
 public class GridDividerItemDecoration extends RecyclerView.ItemDecoration {
     private static final int[] ATTRS = new int[]{android.R.attr.listDivider};

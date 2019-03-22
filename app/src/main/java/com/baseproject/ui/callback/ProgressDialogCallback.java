@@ -8,7 +8,7 @@ import com.lzy.okgo.model.Response;
 import com.lzy.okgo.request.base.Request;
 
 /**
- * @author xiaoyuan.
+ * @author yuanxiang.
  * @date 2019/3/10.
  */
 public class ProgressDialogCallback extends StringCallback {

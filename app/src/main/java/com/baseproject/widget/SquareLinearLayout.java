@@ -9,7 +9,7 @@ import com.baseproject.R;
 
 /**
  * 依据高或者宽设置正方形的LinearLayout。默认依据宽
- * Created by xiaoyuan on 2019/1/8.
+ * Created by yuanxiang on 2019/1/8.
  */
 public class SquareLinearLayout extends LinearLayout {
     private boolean basis = true;
